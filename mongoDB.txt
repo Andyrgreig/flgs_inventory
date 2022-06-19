@@ -1,0 +1,12 @@
+User01
+zUt2n7MAYzGCJs7
+
+flgm_inventory
+Collection0
+
+
+mongodb+srv://User01:zUt2n7MAYzGCJs7@cluster1.h1zgjy7.mongodb.net/?retryWrites=true&w=majority
+
+mongodb+srv://User01:zUt2n7MAYzGCJs7@cluster1.h1zgjy7.mongodb.net/flgm_inventory?retryWrites=true&w=majority
+
+
